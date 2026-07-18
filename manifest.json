@@ -1,0 +1,16 @@
+{
+  "name": "Škoda Auto India — Performance Dashboard",
+  "short_name": "Škoda KPI",
+  "description": "Monthly Performance Dashboard for Škoda Auto India — City, Source, Dealer & Model view",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E392E",
+  "theme_color": "#0E392E",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
